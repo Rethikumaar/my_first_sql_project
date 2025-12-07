@@ -132,8 +132,7 @@ WHERE category = 'Beauty';
 
 ### 3.5. Query 5: High-Value Transactions
 
-**Objective:** Identify all individual transactions where the $\text{total\_sale}$ exceeded $1000$.
-
+**Objective:**  Identify all individual transactions where the total_sale exceeded 1000.
 ```sql
 SELECT *
 FROM retail_sales
